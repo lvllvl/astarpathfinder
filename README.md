@@ -4,3 +4,4 @@
 - User can click and drag any where in the grid to create barriers 
 - Once the user is done creating barriers, press 'w'
 - A* algorithm will find the shortest path between STARTING POINT and TARGET, given the constraints 
+![image](pygameSS.png "Title") 
